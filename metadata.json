@@ -1,0 +1,5 @@
+{
+  "name": "AI Tone Shifter",
+  "description": "A web application that allows users to rewrite their text in various predefined tones of voice using the Gemini API. Select a tone, input your text, and get a transformed version instantly.",
+  "requestFramePermissions": []
+}
